@@ -48,8 +48,8 @@ class HomeFragment : Fragment() {
         binding.rvPopularBooks.layoutManager =
             LinearLayoutManager(requireContext(), LinearLayoutManager.HORIZONTAL, true)
 
-        binding.rvRecentBooks.adapter = BookAdapter(temp)
-        binding.rvPopularBooks.adapter = BookAdapter(temp)
+        binding.rvRecentBooks.adapter = BookAdapter(requireContext(), temp)
+        binding.rvPopularBooks.adapter = BookAdapter(requireContext(), temp)
     }
 
     override fun onDestroyView() {

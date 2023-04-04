@@ -123,16 +123,8 @@ This role would be responsible for building and maintaining a sense of community
 ## 🎯 Usuage and Functionality of Feed The Need
 <h2><b>1.Sign in / Sign Up Activity<br></h2>
 Users will be able to login using credentials. In addition, a Google login has been provided so that users can log in directly using their Google account. The same pipeline will automatically register a newly registered user without further Dialog if he or she is not already registered.
-
-
-
-
-
-
-
-
-
-
+ <img src="
+https://user-images.githubusercontent.com/97617046/229866235-966e4bc5-158a-4e64-820c-de58ec0deb1e.jpg">
 
 
 

@@ -178,9 +178,9 @@ Users can be found by their institution or group. Connect with neighbours, local
 This page contains a list of all organisations that have been formally registered along with pertinent details like location and contact information. Every user who so chooses may join these organisations and establish connections with other members.
 
 
- <img src="https://user-images.githubusercontent.com/97617046/229871910-e6144751-9977-410a-9c66-b43e0e3e9650.jpg)" width=350dp align=
+ <img src="https://user-images.githubusercontent.com/97617046/229872511-fe4434dc-46a1-4804-99db-312aff49043c.jpg" width=350dp align=
 "center">
-![6f07c3f9-1d03-47fc-b865-9579722f6e9e]()
+
 
 
 

@@ -7,6 +7,7 @@ import androidx.appcompat.app.AppCompatDelegate
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
+import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.vishal2376.rebooked.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -16,23 +17,30 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var navController: NavController
 
+    companion object {
+        lateinit var bottomNav: BottomNavigationView
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         _binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        //only light mode
-        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
+        bottomNav = binding.bottomNav
 
+        //only light mode
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
+
+        //nav host setup
         val navHostFragment =
             supportFragmentManager.findFragmentById(R.id.fragmentContainerView) as NavHostFragment
         navController = navHostFragment.navController
 
         // Set up the BottomNavigationView with the NavController
-        binding.bottomNav.setupWithNavController(navController)
+        bottomNav.setupWithNavController(navController)
 
-        binding.bottomNav.setOnNavigationItemSelectedListener { menuItem: MenuItem ->
+        //handle bottom menu click
+        bottomNav.setOnNavigationItemSelectedListener { menuItem: MenuItem ->
             when (menuItem.itemId) {
                 R.id.itemHome -> {
                     navController.navigate(R.id.homeFragment)

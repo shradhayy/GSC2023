@@ -1,4 +1,4 @@
-# Rebooked <img src="[/home/shradhayaryan/Rebooked-/logo.png](https://user-images.githubusercontent.com/97617046/229874905-075b1908-fcdf-4869-a789-4ab29e7d6a3a.jpg)" width=50dp align="left" border-radius="50%">
+# Rebooked <img src="https://user-images.githubusercontent.com/97617046/229874905-075b1908-fcdf-4869-a789-4ab29e7d6a3a.jpg" width=50dp align="left" border-radius="50%">
 ## Spread | Sustain | Connect | Educate
 # Google solution Challenge 2023
 Welcome to Rebooked, a project dedicated to providing cheaper second-hand books to those who may not have the financial means to purchase new books.We understand that buying new books can be expensive, and not everyone can afford to do so. That’s why we have created a platform where individuals can donate their gently used books, and those in need can purchase them at an affordable price. By doing so, we hope to promote literacy, improve access to information, and create a more equitable society.

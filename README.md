@@ -163,14 +163,28 @@ This activity lists every book that one of our users has listed for trade. Each 
 Every book that has been contributed for the cause is listed in this activity. By selecting the book button next to the desired used item, a user can reserve that item and get the necessary assistance in the form of donations.
 <br>
  <img src="https://user-images.githubusercontent.com/97617046/229869396-e1ad6f5e-8b51-4053-a58a-524f3684bd95.jpg" width=350dp align="center">
+ <br>
+  <img src="https://user-images.githubusercontent.com/97617046/229890943-ad0d3f95-3645-4779-bd6c-cc04c65a7a1c.jpg" width=300dp align="center">
 
 <br>
+
+  <img src="https://user-images.githubusercontent.com/97617046/229891115-f2a0d875-f76c-4a55-97c7-229f3773f1b7.jpg" width=300dp align="center">
+
+<br>
+
+
+
+
 
  <h2><b>6.Donation Page</b><br></h2>
 By following some straightforward instructions, a volunteer or an organisation can contribute books. They must fill out the form, submit a photo, and click the contribute button. There will be active pickup facilities to assist these users in donating.
 
 
  <img src="https://user-images.githubusercontent.com/97617046/229870777-063e3673-0dec-42d3-ac3a-dba44faea515.jpg" width=350dp align="center">
+ <br>
+  <img src="https://user-images.githubusercontent.com/97617046/229890755-979eefae-3686-449a-a0a4-51687e34be41.jpg" width=300dp align="center">
+ ![eb4857c1-6ae7-4f70-8e85-15bdb30d7339](https://user-images.githubusercontent.com/97617046/229890755-979eefae-3686-449a-a0a4-51687e34be41.jpg)
+
 
 <br>
 

@@ -121,13 +121,13 @@ This role would be responsible for building and maintaining a sense of community
 8. <b>Platform maintenance:</b></br> The platform administrator would be responsible for maintaining the platform, ensuring that it is operating smoothly and addressing any technical issues that arise. They would also be responsible for enforcing the policies and guidelines for the platform and addressing any concerns or issues raised by users.
 
 ## 🎯 Usuage and Functionality of Feed The Need
-<b>1.Sign in / Sign Up Activity<br>
+<h2><b>1.Sign in / Sign Up Activity<br></h2>
 Users will be able to login using credentials. In addition, a Google login has been provided so that users can log in directly using their Google account. The same pipeline will automatically register a newly registered user without further Dialog if he or she is not already registered.
 
 
 
 
-![881536e7-ff1e-4df6-9882-0028f3e05b77](https://user-images.githubusercontent.com/97617046/229865716-aed4906e-d629-4e57-96c2-8ad05b344a75.jpg)
+
 
 
 

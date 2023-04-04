@@ -127,6 +127,9 @@ Users will be able to login using credentials. In addition, a Google login has b
 
 
 
+![881536e7-ff1e-4df6-9882-0028f3e05b77](https://user-images.githubusercontent.com/97617046/229865716-aed4906e-d629-4e57-96c2-8ad05b344a75.jpg)
+
+
 
 
 

@@ -28,4 +28,9 @@
     <string name="wishlist">Wishlist</string>
     <string name="donated">Donated</string>
     <string name="donation_history">Donation History</string>
+    <string name="orders">Orders</string>
+    <string name="memory">Memory</string>
+    <string name="purchase">Purchase</string>
+    <string name="recent_books">Recent Books</string>
+    <string name="popular_books">Popular Books</string>
 </resources>

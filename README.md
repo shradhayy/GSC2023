@@ -145,6 +145,9 @@ Users will be able to login using credentials. In addition, a Google login has b
 This activity displays all the necessary details of a user, including their name, tagline,wishlist, and role. As part of the volunteer profile, volunteer points have also been added to reward volunteers.
 <br>
  <img src="https://user-images.githubusercontent.com/97617046/229868207-fe901398-b168-4c28-b51f-40d90203e4a2.jpg" width=350dp align="center">
+ <br>
+ <img src="https://user-images.githubusercontent.com/97617046/229891708-0a7b21de-287e-46de-a8a9-9bf925ddd344.jpg" width=350dp align="center">
+![a5e0a6e0-e1d9-417c-aa2d-9c8d1a56d972](https://user-images.githubusercontent.com/97617046/229891708-0a7b21de-287e-46de-a8a9-9bf925ddd344.jpg)
 
 
 <br>
@@ -192,7 +195,14 @@ By following some straightforward instructions, a volunteer or an organisation c
 Users can be found by their institution or group. Connect with neighbours, local businesses, schools, and organisations to avoid the time and hassle of online purchases and deliveries. Make contact with neighbours in your area to sell, buy, or trade books.
 
 
+ <img src="https://user-images.githubusercontent.com/97617046/229891620-57cfde03-6b10-4a14-9fcc-5465af98f638.jpg" width=350dp align="center">
+ <br>![b0d63d10-3975-4ff1-9a11-caacdc819700](https://user-images.githubusercontent.com/97617046/229891620-57cfde03-6b10-4a14-9fcc-5465af98f638.jpg)
+
+ 
+ 
  <img src="https://user-images.githubusercontent.com/97617046/229870703-d5c7b9bd-9c4f-4dbd-af46-323ab2682db5.jpg" width=350dp align="center">
+ <br>
+ 
  
  <h2><b>8.Organisation Activity</b><br></h2>
  <h4>✏️ Organisation activity is divided into 3 subparts -</h4>
@@ -202,6 +212,12 @@ This page contains a list of all organisations that have been formally registere
 
  <img src="https://user-images.githubusercontent.com/97617046/229872511-fe4434dc-46a1-4804-99db-312aff49043c.jpg" width=350dp align=
 "center">
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229891471-5a946e10-1465-4949-a11f-61eb9fb42a5b.jpg" width=300dp align=
+"center"><br>
+
+![e82444b0-e5bb-4385-8acb-e72233795027]()
+
 
 <h3>II)Users in the Organisations</h3>
 A user who joins an organisation can browse all other members of that organisation, as well as their wishlists and user profiles, which detail the items each member has added to their wishlist.

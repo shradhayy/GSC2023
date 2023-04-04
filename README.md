@@ -164,7 +164,7 @@ Every book that has been contributed for the cause is listed in this activity. B
 By following some straightforward instructions, a volunteer or an organisation can contribute books. They must fill out the form, submit a photo, and click the contribute button. There will be active pickup facilities to assist these users in donating.
 
 
- <img src="(https://user-images.githubusercontent.com/97617046/229870777-063e3673-0dec-42d3-ac3a-dba44faea515.jpg" width=350dp align="center">
+ <img src="https://user-images.githubusercontent.com/97617046/229870777-063e3673-0dec-42d3-ac3a-dba44faea515.jpg" width=350dp align="center">
 
 <br>
 
@@ -174,9 +174,8 @@ Users can be found by their institution or group. Connect with neighbours, local
 
  <img src="https://user-images.githubusercontent.com/97617046/229870703-d5c7b9bd-9c4f-4dbd-af46-323ab2682db5.jpg" width=350dp align="center">
 
-<br>![e92211d3-9e3a-425f-a78f-d665ad1b24d3](https://user-images.githubusercontent.com/97617046/229870777-063e3673-0dec-42d3-ac3a-dba44faea515.jpg)
 
 
-![fa177646-46fd-4202-bb42-45404d22ec22](https://user-images.githubusercontent.com/97617046/229870703-d5c7b9bd-9c4f-4dbd-af46-323ab2682db5.jpg)
+
 
 

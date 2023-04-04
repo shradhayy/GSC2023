@@ -121,9 +121,27 @@ This role would be responsible for building and maintaining a sense of community
 8. <b>Platform maintenance:</b></br> The platform administrator would be responsible for maintaining the platform, ensuring that it is operating smoothly and addressing any technical issues that arise. They would also be responsible for enforcing the policies and guidelines for the platform and addressing any concerns or issues raised by users.
 
 ## 🎯 Usuage and Functionality of Feed The Need
-<h2><b>1.Sign in / Sign Up Activity</b><br></h2>
+<h2><b>1.Home Page</b><br></h2>
+After opening the application the first screen that is encountered is a splash screen which will tell our users about what we do and provide a quick insight.
+<br>
+ <img src="[https://user-images.githubusercontent.com/97617046/229866235-966e4bc5-158a-4e64-820c-de58ec0deb1e.jpg](https://user-images.githubusercontent.com/97617046/229867547-072016c0-aa88-4f2d-aa62-744c020faa7b.jpg)" width=350dp align="center">
+ 
+ <br>
+<h2><b>2.Sign in / Sign Up Activity</b><br></h2>
 Users will be able to login using credentials. In addition, a Google login has been provided so that users can log in directly using their Google account. The same pipeline will automatically register a newly registered user without further Dialog if he or she is not already registered.
+<br>
  <img src="https://user-images.githubusercontent.com/97617046/229866235-966e4bc5-158a-4e64-820c-de58ec0deb1e.jpg" width=350dp align="center">
+ 
+ <br>
+ 
+ 
+ <h2><b>3.User Profile Activity</b><br></h2>
+This activity displays all the necessary details of a user, including their name, tagline,wishlist, and role. As part of the volunteer profile, volunteer points have also been added to reward volunteers.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229868207-fe901398-b168-4c28-b51f-40d90203e4a2.jpg" width=350dp align="center">
+
+
+<br>
 
 
 

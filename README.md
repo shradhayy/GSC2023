@@ -122,7 +122,7 @@ This role would be responsible for building and maintaining a sense of community
 
 ## 🎯 Usuage and Functionality of Feed The Need
 <h2><b>1.Home Page</b><br></h2>
-After opening the application the first screen that is encountered is a splash screen which will tell our users about what we do and provide a quick insight.
+After opening the application the first page that is encountered is a Home page which will tell our users about what we do and provide a quick insight.
 <br>
  <img src="https://user-images.githubusercontent.com/97617046/229867547-072016c0-aa88-4f2d-aa62-744c020faa7b.jpg" width=350dp align="center">
  

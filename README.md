@@ -1,8 +1,11 @@
-# Rebooked <img src="/home/shradhayaryan/Rebooked-/logo.png" width=50dp align="left">
+# Rebooked <img src="https://user-images.githubusercontent.com/97617046/229875356-6a0adaa3-56d5-43b4-a75f-2f6e673defba.png" width=50dp align="left" border-radius="50%">
 ## Spread | Sustain | Connect | Educate
 # Google solution Challenge 2023
 Welcome to Rebooked, a project dedicated to providing cheaper second-hand books to those who may not have the financial means to purchase new books.We understand that buying new books can be expensive, and not everyone can afford to do so. That’s why we have created a platform where individuals can donate their gently used books, and those in need can purchase them at an affordable price. By doing so, we hope to promote literacy, improve access to information, and create a more equitable society.
 We believe that every book has a story to tell, and by sharing these stories, we can create a better understanding of the world and the people in it. With Rebooked, we aim to not only provide books, but also to foster a love of reading and learning, and to create a community of people who share this passion.
+
+
+
 
 
 
@@ -120,12 +123,93 @@ This role would be responsible for building and maintaining a sense of community
 
 8. <b>Platform maintenance:</b></br> The platform administrator would be responsible for maintaining the platform, ensuring that it is operating smoothly and addressing any technical issues that arise. They would also be responsible for enforcing the policies and guidelines for the platform and addressing any concerns or issues raised by users.
 
+## 🎯 Usuage and Functionality of Rebooked
+<h2><b>1.Home Page</b><br></h2>
+After opening the application the first page that is encountered is a Home page which will tell our users about what we do and provide a quick insight.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229867547-072016c0-aa88-4f2d-aa62-744c020faa7b.jpg" width=350dp align="center">
+ 
+ <br>
+<h2><b>2.Sign in / Sign Up Activity</b><br></h2>
+Users will be able to login using credentials. In addition, a Google login has been provided so that users can log in directly using their Google account. The same pipeline will automatically register a newly registered user without further Dialog if he or she is not already registered.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229866235-966e4bc5-158a-4e64-820c-de58ec0deb1e.jpg" width=350dp align="center">
+ 
+ <br>
+ 
+ 
+ <h2><b>3.User Profile Activity</b><br></h2>
+This activity displays all the necessary details of a user, including their name, tagline,wishlist, and role. As part of the volunteer profile, volunteer points have also been added to reward volunteers.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229868207-fe901398-b168-4c28-b51f-40d90203e4a2.jpg" width=350dp align="center">
+
+
+<br>
+
+ <h2><b>4.Exchange Activity</b><br></h2>
+This activity lists every book that one of our users has listed for trade. Each user can connect further by clicking the appropriate item and taking the next step to join the book exchange.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229868975-bbc7ff81-8799-4437-8200-bf64b043198b.jpg" width=350dp align="center">
 
 
 
+<br>
 
 
+ <h2><b>5.Rebook Activity</b><br></h2>
+Every book that has been contributed for the cause is listed in this activity. By selecting the book button next to the desired used item, a user can reserve that item and get the necessary assistance in the form of donations.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229869396-e1ad6f5e-8b51-4053-a58a-524f3684bd95.jpg" width=350dp align="center">
 
+<br>
+
+ <h2><b>6.Donation Page</b><br></h2>
+By following some straightforward instructions, a volunteer or an organisation can contribute books. They must fill out the form, submit a photo, and click the contribute button. There will be active pickup facilities to assist these users in donating.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229870777-063e3673-0dec-42d3-ac3a-dba44faea515.jpg" width=350dp align="center">
+
+<br>
+
+ <h2><b>7.Schools Activity</b><br></h2>
+Users can be found by their institution or group. Connect with neighbours, local businesses, schools, and organisations to avoid the time and hassle of online purchases and deliveries. Make contact with neighbours in your area to sell, buy, or trade books.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229870703-d5c7b9bd-9c4f-4dbd-af46-323ab2682db5.jpg" width=350dp align="center">
+ 
+ <h2><b>8.Organisation Activity</b><br></h2>
+ <h4>✏️ Organisation activity is divided into 3 subparts -</h4>
+<h3>I) Listed Organisations</h3>
+This page contains a list of all organisations that have been formally registered along with pertinent details like location and contact information. Every user who so chooses may join these organisations and establish connections with other members.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229872511-fe4434dc-46a1-4804-99db-312aff49043c.jpg" width=350dp align=
+"center">
+
+<h3>II)Users in the Organisations</h3>
+A user who joins an organisation can browse all other members of that organisation, as well as their wishlists and user profiles, which detail the items each member has added to their wishlist.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229873283-1d4344e9-f607-47f2-9b06-3d0bb9945852.jpg" width=350dp align=
+"center">
+
+<h3>III)User Wishlist</h3>
+All the books a user has added to their wish list are listed in their user wishlist. Members of the same organisation can view or share books with one another. The purpose of this tool is to save time and money by locating nearby matches.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229874250-1099e798-ef17-40a7-854f-a072d5ede7c0.jpg" width=350dp align=
+"center">
+
+ <h2><b>9.About Us!</b><br></h2>
+Visit this page to learn more about us. From the work we do to the goals we have for this project as a service to the community, these have been and continue to be our driving forces.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229876317-8d2ac8bd-e944-4504-842a-e738222cd610.jpg" width=350dp align="center">
+ 
+  <h2><b>10.Contact Us</b><br></h2>
+Want to get in touch with us? Find out more about us, and our contact information, by visiting this page. Send suggestions and feedback.
+
+ <img src="https://user-images.githubusercontent.com/97617046/229877159-2484863c-e385-4b92-966c-240aff3cbd94.jpg" width=350dp align="center">
 
 
 

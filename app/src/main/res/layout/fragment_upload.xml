@@ -1,14 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:paddingHorizontal="32dp"
+    android:paddingVertical="30dp"
     tools:context=".fragments.nav.UploadFragment">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/donate_books"
+        android:textColor="@color/colorGreenDark"
+        android:textSize="25sp"
+        android:textStyle="bold" />
 
-</FrameLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kindly_fill_the_information"
+        android:textColor="@color/colorGrey"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/imgUploadBookImage"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/upload_image" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/upload_book_cover"
+        android:textColor="@color/colorGrey"
+        android:textSize="16sp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/editNameHint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:hint="@string/book_name"
+        app:boxBackgroundColor="@color/colorGreenLight">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editBookName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorGreenDark" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.MaterialAutoCompleteTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/colorGreenLight"
+        android:drawableEnd="@drawable/ic_down_arrow"
+        android:drawableTint="@color/colorGreenDark"
+        android:hint="@string/book_category"
+        android:inputType="none"
+        android:padding="16dp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/editDescHint"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="16dp"
+        android:layout_weight="1"
+        android:hint="@string/book_description"
+        app:boxBackgroundColor="@color/colorGreenLight"
+        app:boxStrokeColor="@color/colorGreenLight">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editBookDesc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="textLongMessage"
+            android:textColor="@color/colorGreenDark" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:paddingVertical="16dp"
+        android:text="@string/donate" />
+
+</LinearLayout>

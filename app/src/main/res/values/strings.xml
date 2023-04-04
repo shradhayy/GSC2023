@@ -15,4 +15,11 @@
     <string name="create_new_account">Create New Account</string>
     <string name="create_account">Create Account</string>
     <string name="name">Name</string>
+    <string name="kindly_fill_the_information">Kindly Fill the information</string>
+    <string name="donate_books">Donate Books</string>
+    <string name="upload_book_cover">Upload Book Cover</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_description">Book Description</string>
+    <string name="book_category">Book Category</string>
+    <string name="donate">Donate</string>
 </resources>

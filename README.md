@@ -134,7 +134,10 @@ After opening the application the first page that is encountered is a Home page 
 Users will be able to login using credentials. In addition, a Google login has been provided so that users can log in directly using their Google account. The same pipeline will automatically register a newly registered user without further Dialog if he or she is not already registered.
 <br>
  <img src="https://user-images.githubusercontent.com/97617046/229866235-966e4bc5-158a-4e64-820c-de58ec0deb1e.jpg" width=350dp align="center">
- 
+ <br>
+ <img src="https://user-images.githubusercontent.com/97617046/229890201-3e305b64-90f3-4e32-8d55-4ee03f823047.jpg" width=300dp align="center">
+![afe628c5-0f0c-4413-8429-4beb751b15da](https://user-images.githubusercontent.com/97617046/229890201-3e305b64-90f3-4e32-8d55-4ee03f823047.jpg)
+
  <br>
  
  

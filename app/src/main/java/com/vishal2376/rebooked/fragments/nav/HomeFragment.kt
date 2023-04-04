@@ -5,8 +5,12 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.vishal2376.rebooked.MainActivity.Companion.bottomNav
+import com.vishal2376.rebooked.R
+import com.vishal2376.rebooked.adapters.BookAdapter
 import com.vishal2376.rebooked.databinding.FragmentHomeBinding
+import com.vishal2376.rebooked.models.Book
 
 class HomeFragment : Fragment() {
 
@@ -24,6 +28,28 @@ class HomeFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         bottomNav.visibility = View.VISIBLE
+
+        handleRecyclerView()
+    }
+
+    private fun handleRecyclerView() {
+        val temp = listOf<Book>(
+            Book("Design Formula", R.drawable.one),
+            Book("Mathematics", R.drawable.two),
+            Book("Design Formula", R.drawable.three),
+            Book("Mathematics", R.drawable.four),
+            Book("Normal People", R.drawable.five),
+            Book("Memory", R.drawable.six),
+            Book("Book Launch", R.drawable.seven)
+        )
+
+        binding.rvRecentBooks.layoutManager =
+            LinearLayoutManager(requireContext(), LinearLayoutManager.HORIZONTAL, false)
+        binding.rvPopularBooks.layoutManager =
+            LinearLayoutManager(requireContext(), LinearLayoutManager.HORIZONTAL, true)
+
+        binding.rvRecentBooks.adapter = BookAdapter(temp)
+        binding.rvPopularBooks.adapter = BookAdapter(temp)
     }
 
     override fun onDestroyView() {

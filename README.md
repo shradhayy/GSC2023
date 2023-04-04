@@ -189,6 +189,13 @@ A user who joins an organisation can browse all other members of that organisati
  <img src="https://user-images.githubusercontent.com/97617046/229873283-1d4344e9-f607-47f2-9b06-3d0bb9945852.jpg" width=350dp align=
 "center">
 
+<h3>I)User Wishlist</h3>
+All the books a user has added to their wish list are listed in their user wishlist. Members of the same organisation can view or share books with one another. The purpose of this tool is to save time and money by locating nearby matches.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229874250-1099e798-ef17-40a7-854f-a072d5ede7c0.jpg" width=350dp align=
+"center">
+
 
 
 

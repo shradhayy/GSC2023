@@ -10,7 +10,14 @@
     android:paddingVertical="30dp"
     tools:context=".fragments.nav.UploadFragment">
 
-  donate_books
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/montserrat"
+        android:text="@string/donate_books"
+        android:textColor="@color/colorGreenDark"
+        android:textSize="25sp" />
 
     <TextView
         android:layout_width="wrap_content"

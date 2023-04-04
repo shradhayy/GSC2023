@@ -23,4 +23,9 @@
     <string name="book_category">Book Category</string>
     <string name="donate">Donate</string>
     <string name="search_your_nfavourite_book">Search your\nFavourite Book</string>
+    <string name="mark">Mark Aryan</string>
+    <string name="_200_points">200 Points</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="donated">Donated</string>
+    <string name="donation_history">Donation History</string>
 </resources>

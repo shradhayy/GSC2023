@@ -50,6 +50,10 @@ class MainActivity : AppCompatActivity() {
                     navController.navigate(R.id.searchFragment)
                     true
                 }
+                R.id.itemMain -> {
+                    navController.navigate(R.id.mainFragment)
+                    true
+                }
                 R.id.itemUpload -> {
                     navController.navigate(R.id.uploadFragment)
                     true

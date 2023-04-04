@@ -16,6 +16,11 @@
         android:title="@string/upload" />
 
     <item
+        android:id="@+id/itemMain"
+        android:icon="@drawable/ic_organisation"
+        android:title="@string/organisation" />
+
+    <item
         android:id="@+id/itemProfile"
         android:icon="@drawable/ic_person"
         android:title="@string/profile" />

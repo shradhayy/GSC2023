@@ -33,4 +33,7 @@
     <string name="purchase">Purchase</string>
     <string name="recent_books">Recent Books</string>
     <string name="popular_books">Popular Books</string>
+    <string name="organisation">Organisation</string>
+    <string name="nit_hamirpur">NIT Hamirpur</string>
+    <string name="nescafe">Nescafe</string>
 </resources>

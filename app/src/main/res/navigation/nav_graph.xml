@@ -9,11 +9,8 @@
         android:id="@+id/homeFragment"
         android:name="com.vishal2376.rebooked.fragments.nav.HomeFragment"
         android:label="fragment_home"
-        tools:layout="@layout/fragment_home" >
-        <action
-            android:id="@+id/action_homeFragment_to_categoriesFragment"
-            app:destination="@id/categoriesFragment" />
-    </fragment>
+        tools:layout="@layout/fragment_home" />
+
     <fragment
         android:id="@+id/searchFragment"
         android:name="com.vishal2376.rebooked.fragments.nav.SearchFragment"
@@ -30,15 +27,15 @@
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
     <fragment
-        android:id="@+id/categoriesFragment"
-        android:name="com.vishal2376.rebooked.fragments.CategoriesFragment"
-        android:label="fragment_categories"
-        tools:layout="@layout/fragment_categories" />
+        android:id="@+id/organisationFragment"
+        android:name="com.vishal2376.rebooked.fragments.nav.main.OrganisationFragment"
+        android:label="fragment_organisation"
+        tools:layout="@layout/fragment_organisation" />
     <fragment
         android:id="@+id/loginFragment"
         android:name="com.vishal2376.rebooked.fragments.LoginFragment"
         android:label="fragment_login"
-        tools:layout="@layout/fragment_login" >
+        tools:layout="@layout/fragment_login">
         <action
             android:id="@+id/action_loginFragment_to_homeFragment"
             app:destination="@id/homeFragment" />
@@ -50,9 +47,26 @@
         android:id="@+id/signUpFragment"
         android:name="com.vishal2376.rebooked.fragments.SignUpFragment"
         android:label="fragment_sign_up"
-        tools:layout="@layout/fragment_sign_up" >
+        tools:layout="@layout/fragment_sign_up">
         <action
             android:id="@+id/action_signUpFragment_to_homeFragment"
             app:destination="@id/homeFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.vishal2376.rebooked.fragments.nav.main.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main">
+        <action
+            android:id="@+id/action_mainFragment_to_organisationFragment"
+            app:destination="@id/organisationFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_schoolFragment"
+            app:destination="@id/schoolFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/schoolFragment"
+        android:name="com.vishal2376.rebooked.fragments.nav.main.SchoolFragment"
+        android:label="fragment_school"
+        tools:layout="@layout/fragment_school" />
 </navigation>

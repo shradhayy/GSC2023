@@ -156,14 +156,14 @@ This activity lists every book that one of our users has listed for trade. Each 
 <br>
 
 
- <h2><b>4.Rebook Activity</b><br></h2>
+ <h2><b>5.Rebook Activity</b><br></h2>
 Every book that has been contributed for the cause is listed in this activity. By selecting the book button next to the desired used item, a user can reserve that item and get the necessary assistance in the form of donations.
 <br>
  <img src="https://user-images.githubusercontent.com/97617046/229869396-e1ad6f5e-8b51-4053-a58a-524f3684bd95.jpg" width=350dp align="center">
 
 <br>
 
- <h2><b>4.Donation Page</b><br></h2>
+ <h2><b>6.Donation Page</b><br></h2>
 By following some straightforward instructions, a volunteer or an organisation can contribute books. They must fill out the form, submit a photo, and click the contribute button. There will be active pickup facilities to assist these users in donating.
 
 
@@ -171,13 +171,13 @@ By following some straightforward instructions, a volunteer or an organisation c
 
 <br>
 
- <h2><b>4.Schools Activity</b><br></h2>
+ <h2><b>7.Schools Activity</b><br></h2>
 Users can be found by their institution or group. Connect with neighbours, local businesses, schools, and organisations to avoid the time and hassle of online purchases and deliveries. Make contact with neighbours in your area to sell, buy, or trade books.
 
 
  <img src="https://user-images.githubusercontent.com/97617046/229870703-d5c7b9bd-9c4f-4dbd-af46-323ab2682db5.jpg" width=350dp align="center">
  
- <h2><b>4.Organisation Activity</b><br></h2>
+ <h2><b>8.Organisation Activity</b><br></h2>
  <h4>✏️ Organisation activity is divided into 3 subparts -</h4>
 <h3>I) Listed Organisations</h3>
 This page contains a list of all organisations that have been formally registered along with pertinent details like location and contact information. Every user who so chooses may join these organisations and establish connections with other members.
@@ -200,6 +200,16 @@ All the books a user has added to their wish list are listed in their user wishl
  <img src="https://user-images.githubusercontent.com/97617046/229874250-1099e798-ef17-40a7-854f-a072d5ede7c0.jpg" width=350dp align=
 "center">
 
+ <h2><b>9.About Us!</b><br></h2>
+Visit this page to learn more about us. From the work we do to the goals we have for this project as a service to the community, these have been and continue to be our driving forces.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229876317-8d2ac8bd-e944-4504-842a-e738222cd610.jpg" width=350dp align="center">
+ 
+  <h2><b>10.Contact Us</b><br></h2>
+Want to get in touch with us? Find out more about us, and our contact information, by visiting this page. Send suggestions and feedback.
+
+ <img src="https://user-images.githubusercontent.com/97617046/229877159-2484863c-e385-4b92-966c-240aff3cbd94.jpg" width=350dp align="center">
 
 
 

@@ -185,7 +185,6 @@ By following some straightforward instructions, a volunteer or an organisation c
  <img src="https://user-images.githubusercontent.com/97617046/229870777-063e3673-0dec-42d3-ac3a-dba44faea515.jpg" width=350dp align="center">
  <br>
   <img src="https://user-images.githubusercontent.com/97617046/229890755-979eefae-3686-449a-a0a4-51687e34be41.jpg" width=300dp align="center">
- ![eb4857c1-6ae7-4f70-8e85-15bdb30d7339](https://user-images.githubusercontent.com/97617046/229890755-979eefae-3686-449a-a0a4-51687e34be41.jpg)
 
 
 <br>

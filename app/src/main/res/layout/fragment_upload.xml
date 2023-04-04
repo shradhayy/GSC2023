@@ -63,20 +63,6 @@
 
     </com.google.android.material.textfield.TextInputLayout>
 
-    <com.google.android.material.textfield.MaterialAutoCompleteTextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:background="@color/colorGreenLight"
-        android:drawableEnd="@drawable/ic_down_arrow"
-        android:drawableTint="@color/colorGreenDark"
-        android:fontFamily="@font/roboto"
-        android:hint="@string/book_category"
-        android:textColorHint="@color/colorGrey"
-        android:inputType="none"
-        android:padding="16dp"
-        android:textSize="16sp" />
-
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/editDescHint"
         android:layout_width="match_parent"
@@ -92,10 +78,24 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:fontFamily="@font/roboto"
-            android:inputType="textLongMessage"
+            android:inputType="textMultiLine"
             android:textColor="@color/colorGreenDark" />
 
     </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.MaterialAutoCompleteTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/colorGreenLight"
+        android:drawableEnd="@drawable/ic_down_arrow"
+        android:drawableTint="@color/colorGreenDark"
+        android:fontFamily="@font/roboto"
+        android:hint="@string/book_category"
+        android:inputType="none"
+        android:padding="16dp"
+        android:textColorHint="@color/colorGreyDark"
+        android:textSize="16sp" />
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnLogin"

@@ -175,6 +175,7 @@ Users can be found by their institution or group. Connect with neighbours, local
  <img src="https://user-images.githubusercontent.com/97617046/229870703-d5c7b9bd-9c4f-4dbd-af46-323ab2682db5.jpg" width=350dp align="center">
  
  <h2><b>4.Organisation Activity</b><br></h2>
+ <h4>✏️ Organisation activity is divided into 3 subparts -</h4>
 <h3>I) Listed Organisations</h3>
 This page contains a list of all organisations that have been formally registered along with pertinent details like location and contact information. Every user who so chooses may join these organisations and establish connections with other members.
 
@@ -182,14 +183,14 @@ This page contains a list of all organisations that have been formally registere
  <img src="https://user-images.githubusercontent.com/97617046/229872511-fe4434dc-46a1-4804-99db-312aff49043c.jpg" width=350dp align=
 "center">
 
-<h3>I)Users in the Organisations</h3>
+<h3>II)Users in the Organisations</h3>
 A user who joins an organisation can browse all other members of that organisation, as well as their wishlists and user profiles, which detail the items each member has added to their wishlist.
 
 
  <img src="https://user-images.githubusercontent.com/97617046/229873283-1d4344e9-f607-47f2-9b06-3d0bb9945852.jpg" width=350dp align=
 "center">
 
-<h3>I)User Wishlist</h3>
+<h3>III)User Wishlist</h3>
 All the books a user has added to their wish list are listed in their user wishlist. Members of the same organisation can view or share books with one another. The purpose of this tool is to save time and money by locating nearby matches.
 
 

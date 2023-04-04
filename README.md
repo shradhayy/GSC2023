@@ -120,7 +120,7 @@ This role would be responsible for building and maintaining a sense of community
 
 8. <b>Platform maintenance:</b></br> The platform administrator would be responsible for maintaining the platform, ensuring that it is operating smoothly and addressing any technical issues that arise. They would also be responsible for enforcing the policies and guidelines for the platform and addressing any concerns or issues raised by users.
 
-## 🎯 Usuage and Functionality of Feed The Need
+## 🎯 Usuage and Functionality of Rebooked
 <h2><b>1.Home Page</b><br></h2>
 After opening the application the first page that is encountered is a Home page which will tell our users about what we do and provide a quick insight.
 <br>

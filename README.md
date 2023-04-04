@@ -124,7 +124,7 @@ This role would be responsible for building and maintaining a sense of community
 <h2><b>1.Home Page</b><br></h2>
 After opening the application the first screen that is encountered is a splash screen which will tell our users about what we do and provide a quick insight.
 <br>
- <img src="[https://user-images.githubusercontent.com/97617046/229866235-966e4bc5-158a-4e64-820c-de58ec0deb1e.jpg](https://user-images.githubusercontent.com/97617046/229867547-072016c0-aa88-4f2d-aa62-744c020faa7b.jpg)" width=350dp align="center">
+ <img src="https://user-images.githubusercontent.com/97617046/229867547-072016c0-aa88-4f2d-aa62-744c020faa7b.jpg" width=350dp align="center">
  
  <br>
 <h2><b>2.Sign in / Sign Up Activity</b><br></h2>
@@ -140,6 +140,23 @@ This activity displays all the necessary details of a user, including their name
 <br>
  <img src="https://user-images.githubusercontent.com/97617046/229868207-fe901398-b168-4c28-b51f-40d90203e4a2.jpg" width=350dp align="center">
 
+
+<br>
+
+ <h2><b>4.Exchange Activity</b><br></h2>
+This activity lists every book that one of our users has listed for trade. Each user can connect further by clicking the appropriate item and taking the next step to join the book exchange.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229868975-bbc7ff81-8799-4437-8200-bf64b043198b.jpg" width=350dp align="center">
+
+
+
+<br>
+
+
+ <h2><b>4.Rebook Activity</b><br></h2>
+Every book that has been contributed for the cause is listed in this activity. By selecting the book button next to the desired used item, a user can reserve that item and get the necessary assistance in the form of donations.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229869396-e1ad6f5e-8b51-4053-a58a-524f3684bd95.jpg" width=350dp align="center">
 
 <br>
 

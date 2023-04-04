@@ -13,10 +13,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat"
         android:text="@string/login_now"
-        android:textStyle="bold"
         android:textColor="@color/colorGreenDark"
-        android:textSize="32sp" />
+        android:textSize="32sp"
+        android:textStyle="bold" />
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/editEmailHint"
@@ -30,6 +31,7 @@
             android:id="@+id/editEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto"
             android:inputType="textEmailAddress"
             android:textColor="@color/colorGreenDark" />
 
@@ -47,6 +49,7 @@
             android:id="@+id/editPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto"
             android:inputType="textPassword"
             android:textColor="@color/colorGreenDark" />
 
@@ -58,6 +61,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="end"
         android:layout_marginTop="20dp"
+        android:fontFamily="@font/roboto"
         android:text="@string/forget_password"
         android:textColor="@color/colorBlue"
         android:textSize="14sp" />
@@ -68,6 +72,7 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="40dp"
         android:layout_marginTop="32dp"
+        android:fontFamily="@font/montserrat"
         android:paddingVertical="16dp"
         android:text="@string/login" />
 

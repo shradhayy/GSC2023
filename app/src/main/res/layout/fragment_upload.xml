@@ -14,14 +14,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
+        android:fontFamily="@font/montserrat"
         android:text="@string/donate_books"
         android:textColor="@color/colorGreenDark"
-        android:textSize="25sp"
-        android:textStyle="bold" />
+        android:textSize="25sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/roboto"
         android:text="@string/kindly_fill_the_information"
         android:textColor="@color/colorGrey"
         android:textSize="16sp" />
@@ -39,6 +41,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:fontFamily="@font/roboto"
         android:text="@string/upload_book_cover"
         android:textColor="@color/colorGrey"
         android:textSize="16sp" />
@@ -55,6 +58,7 @@
             android:id="@+id/editBookName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto"
             android:textColor="@color/colorGreenDark" />
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -66,9 +70,11 @@
         android:background="@color/colorGreenLight"
         android:drawableEnd="@drawable/ic_down_arrow"
         android:drawableTint="@color/colorGreenDark"
+        android:fontFamily="@font/roboto"
         android:hint="@string/book_category"
         android:inputType="none"
-        android:padding="16dp" />
+        android:padding="16dp"
+        android:textSize="16sp" />
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/editDescHint"
@@ -84,6 +90,7 @@
             android:id="@+id/editBookDesc"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:fontFamily="@font/roboto"
             android:inputType="textLongMessage"
             android:textColor="@color/colorGreenDark" />
 
@@ -94,6 +101,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
+        android:fontFamily="@font/montserrat"
         android:paddingVertical="16dp"
         android:text="@string/donate" />
 

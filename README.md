@@ -16,7 +16,8 @@ Without a middleman or inventory, we want to build a platform that connects peop
 
 <h2>Installation :</h2>
 <ul>
-<li>The app can be installed by directly <b>downloading the Android Application</b> Package (APK) File located at : "Demonstration and results/app-debug.apk" into the <b>Mobile phone device with Android OS</b>.
+<li>The app can be installed by directly <b>downloading the Android Application</b> Package (APK) File located at : "rebooked.apk" into the <b>Mobile phone device with Android OS</b>.
+you can also access our website on github
 <li>For <b>building the project on your local machine</b>, clone the repo and Open it with Android Studio.
 </ul>
 
